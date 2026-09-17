@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "khisr"]
+	path = khisr
+	url = https://github.com/damurka/khisr
 [submodule "kpp2019"]
 	path = kpp2019
 	url = https://github.com/damurka/kpp2019
