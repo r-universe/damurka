@@ -1,7 +1,22 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/damurka/damurka.r-universe.dev
 	branch = HEAD
+[submodule "cd2030.core"]
+	path = cd2030.core
+	url = https://github.com/damurka/cd2030.core
+[submodule "cd2030.pooled"]
+	path = cd2030.pooled
+	url = https://github.com/damurka/cd2030.pooled
+[submodule "cd2030.rmncah"]
+	path = cd2030.rmncah
+	url = https://github.com/damurka/cd2030.rmncah
+[submodule "cd2030.vaxx"]
+	path = cd2030.vaxx
+	url = https://github.com/damurka/cd2030.vaxx
+[submodule "datasuite.ui"]
+	path = datasuite.ui
+	url = https://github.com/damurka/datasuite.ui
 [submodule "khisr"]
 	path = khisr
 	url = https://github.com/damurka/khisr
