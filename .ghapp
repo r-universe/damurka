@@ -1,0 +1,10 @@
+{
+  "id": 164969554,
+  "created_at": "2026-09-25T22:11:29.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["cd2030.vaxx", "datasuite.ui", "cd2030.pooled", "cd2030.rmncah", "cd2030.core"]
+}
