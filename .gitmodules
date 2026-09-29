@@ -23,3 +23,6 @@
 [submodule "kpp2019"]
 	path = kpp2019
 	url = https://github.com/damurka/kpp2019
+[submodule "quire"]
+	path = quire
+	url = https://github.com/damurka/quire
