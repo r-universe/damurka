@@ -9,6 +9,7 @@
 [submodule "cd2030.pooled"]
 	path = cd2030.pooled
 	url = https://github.com/damurka/cd2030.pooled
+	branch = main
 [submodule "cd2030.rmncah"]
 	path = cd2030.rmncah
 	url = https://github.com/damurka/cd2030.rmncah
@@ -16,6 +17,7 @@
 [submodule "cd2030.vaxx"]
 	path = cd2030.vaxx
 	url = https://github.com/damurka/cd2030.vaxx
+	branch = main
 [submodule "datasuite.ui"]
 	path = datasuite.ui
 	url = https://github.com/damurka/datasuite.ui
@@ -29,3 +31,4 @@
 [submodule "quire"]
 	path = quire
 	url = https://github.com/damurka/quire
+	branch = main
